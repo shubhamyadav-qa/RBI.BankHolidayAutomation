@@ -1,0 +1,40 @@
+# .NET build output
+bin/
+obj/
+*.user
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+*.trx
+
+# Generated reports
+Reports/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.rsuser
+*.local
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary inspection files
+_inspect/
+sdk-check.txt
